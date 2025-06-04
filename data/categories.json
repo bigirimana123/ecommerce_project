@@ -1,0 +1,212 @@
+[
+  {
+    "category_id": "cat_000",
+    "name": "Gallegos-Delgado",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_000_00",
+        "name": "Iterate Virtual Roi",
+        "profit_margin": 0.26
+      },
+      {
+        "subcategory_id": "sub_000_01",
+        "name": "Harness Innovative Experiences",
+        "profit_margin": 0.27
+      },
+      {
+        "subcategory_id": "sub_000_02",
+        "name": "Integrate Best-Of-Breed Action-Items",
+        "profit_margin": 0.49
+      }
+    ]
+  },
+  {
+    "category_id": "cat_001",
+    "name": "Davis PLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_001_00",
+        "name": "Deploy 24/7 Markets",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_001_01",
+        "name": "Target Customized Systems",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_001_02",
+        "name": "Optimize Bleeding-Edge Bandwidth",
+        "profit_margin": 0.14
+      }
+    ]
+  },
+  {
+    "category_id": "cat_002",
+    "name": "Edwards, Foster and Gates",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_002_00",
+        "name": "Re-Contextualize User-Centric Architectures",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_002_01",
+        "name": "Innovate Open-Source Architectures",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_002_02",
+        "name": "Generate E-Business Synergies",
+        "profit_margin": 0.11
+      }
+    ]
+  },
+  {
+    "category_id": "cat_003",
+    "name": "Fitzpatrick and Sons",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_003_00",
+        "name": "E-Enable Value-Added Users",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_003_01",
+        "name": "Envisioneer Virtual Content",
+        "profit_margin": 0.25
+      },
+      {
+        "subcategory_id": "sub_003_02",
+        "name": "Innovate Customized Web-Readiness",
+        "profit_margin": 0.34
+      }
+    ]
+  },
+  {
+    "category_id": "cat_004",
+    "name": "Brandt PLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_004_00",
+        "name": "Re-Contextualize Holistic Architectures",
+        "profit_margin": 0.13
+      },
+      {
+        "subcategory_id": "sub_004_01",
+        "name": "Revolutionize Cutting-Edge Relationships",
+        "profit_margin": 0.16
+      },
+      {
+        "subcategory_id": "sub_004_02",
+        "name": "Expedite Cross-Platform Technologies",
+        "profit_margin": 0.23
+      }
+    ]
+  },
+  {
+    "category_id": "cat_005",
+    "name": "White-Tran",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_005_00",
+        "name": "Drive E-Business Markets",
+        "profit_margin": 0.42
+      },
+      {
+        "subcategory_id": "sub_005_01",
+        "name": "Disintermediate Viral Systems",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_005_02",
+        "name": "Extend Mission-Critical Deliverables",
+        "profit_margin": 0.41
+      }
+    ]
+  },
+  {
+    "category_id": "cat_006",
+    "name": "Dickerson-Garner",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_006_00",
+        "name": "Empower Viral Interfaces",
+        "profit_margin": 0.13
+      },
+      {
+        "subcategory_id": "sub_006_01",
+        "name": "Facilitate Innovative Networks",
+        "profit_margin": 0.28
+      },
+      {
+        "subcategory_id": "sub_006_02",
+        "name": "Scale Web-Enabled Functionalities",
+        "profit_margin": 0.16
+      }
+    ]
+  },
+  {
+    "category_id": "cat_007",
+    "name": "Potts Inc",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_007_00",
+        "name": "Innovate Transparent Action-Items",
+        "profit_margin": 0.12
+      },
+      {
+        "subcategory_id": "sub_007_01",
+        "name": "Expedite Magnetic Schemas",
+        "profit_margin": 0.4
+      },
+      {
+        "subcategory_id": "sub_007_02",
+        "name": "Mesh Front-End E-Commerce",
+        "profit_margin": 0.22
+      }
+    ]
+  },
+  {
+    "category_id": "cat_008",
+    "name": "Olsen-Marquez",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_008_00",
+        "name": "Evolve Dynamic Platforms",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_008_01",
+        "name": "Envisioneer Strategic Infrastructures",
+        "profit_margin": 0.42
+      },
+      {
+        "subcategory_id": "sub_008_02",
+        "name": "Streamline Real-Time Paradigms",
+        "profit_margin": 0.45
+      }
+    ]
+  },
+  {
+    "category_id": "cat_009",
+    "name": "Contreras-Green",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_009_00",
+        "name": "Iterate Viral Web-Readiness",
+        "profit_margin": 0.3
+      },
+      {
+        "subcategory_id": "sub_009_01",
+        "name": "Disintermediate Virtual Niches",
+        "profit_margin": 0.31
+      },
+      {
+        "subcategory_id": "sub_009_02",
+        "name": "Synergize Transparent Experiences",
+        "profit_margin": 0.35
+      }
+    ]
+  }
+]

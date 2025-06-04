@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  hbase:
+    image: harisekhon/hbase
+    container_name: hbase
+    ports:
+      - "16010:16010"  # HBase Web UI
+      - "9090:9090"    # Thrift port for HappyBase
+      - "2181:2181"    # ZooKeeper
+    environment:
+      - HBASE_MANAGES_ZK=true
+
+# docker compose up -d   (runing this code in terminal help in runing docker-compose.yml file in order to Start HBase Docker Container)
+# then after running it, just waiting a few seconds for being started, then open HBase Web UI at:http://localhost:16010
